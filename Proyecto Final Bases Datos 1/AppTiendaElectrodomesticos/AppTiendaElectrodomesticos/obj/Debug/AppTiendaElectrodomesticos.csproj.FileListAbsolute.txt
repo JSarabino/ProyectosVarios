@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\bin\Debug\AppTiendaElectrodomesticos.exe.config
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\bin\Debug\AppTiendaElectrodomesticos.exe
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\bin\Debug\AppTiendaElectrodomesticos.pdb
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.csproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.FrmInicio.resources
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.Properties.Resources.resources
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.csproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.exe
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.pdb
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Camilo\source\repos\AppTiendaElectrodomesticos\AppTiendaElectrodomesticos\obj\Debug\AppTiendaElectrodomesticos.csproj.CopyComplete

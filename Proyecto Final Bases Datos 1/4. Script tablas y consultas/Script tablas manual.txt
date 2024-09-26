@@ -1,0 +1,56 @@
+/*==============================================================*/
+/* Tabla: TiendaElectrodomésticos                               */
+/*==============================================================*/
+
+create table tblTienda
+(
+   tienNit int not null,
+   tienNombre varchar2(50) not null,
+   tienFechaCreacion date not null,
+   constraint PK_tblTienda primary key(tienNit),
+   constraint CKC_tienNit check(tienNit > 0)
+);
+
+
+/*==============================================================*/
+/* Tabla: Electrodoméstico                                      */
+/*==============================================================*/
+
+create table tblElectrodomestico
+(
+  electSerial int not null,
+  electTipo varchar2(20) not null,
+  electMarca varchar2(40) not null,
+  electPaisOrigen varchar2 (40) not null,
+  electAnioFabricacion int not null,
+  tienNit int not null,
+  constraint PK_tblElectrodomestico primary key(electSerial),
+  constraint FK_TienElect foreign key(tienNit) references tblTienda(tienNit),
+  constraint CKC_electSerial check(electSerial > 0),
+  constraint CKC_electTipo check(electTipo in ('Televisor', 'Lavadora', 'Nevera'))
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

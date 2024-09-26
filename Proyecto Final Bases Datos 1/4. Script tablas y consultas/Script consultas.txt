@@ -1,0 +1,79 @@
+/*==============================================================*/
+/* Consultas                                                    */
+/*==============================================================*/
+
+Sobre una tabla
+
+--1. mostrar el serial, tipo y año de fabricación de los electrodomésticos
+
+select electSerial "Serial", electTipo "Tipo", electAnioFabricacion "Año de fabricación" from tblElectrodomestico
+
+--2. mostrar el serial, tipo y año de fabricación de los electrodomésticos solamente de
+--los electrodomésticos de la tienda con Nit 1061877.
+
+select electSerial "Serial", electTipo "Tipo", electAnioFabricacion "Año de fabricación" from tblElectrodomestico where tienNit = 1061877
+
+--3. seleccionar el serial, marca y el pais de origen  de los electrodomésticos cuyo 
+--tipo empiece por T
+
+select electSerial "Serial", electMarca "Marca", electPaisOrigen "País de origen" from tblElectrodomestico where electTipo LIKE 'T%'
+
+--4. cuántas tiendas hay registradas
+
+select count(tienNit) from tblTienda
+
+--5. Año de fabricación más bajo de un electrodoméstico registrado
+
+select min(electAnioFabricacion) from tblElectrodomestico
+
+
+
+
+Consultas sobre dos tablas
+
+--1. obtenga el serial, marca y nombre de la tienda 
+
+select electSerial "Serial", electMarca "Marca", tienNombre "Tienda" from  tblTienda inner join tblElectrodomestico on tblTienda.tienNit = tblElectrodomestico.tienNit
+
+--2. obtenga el nombre de la tienda, fecha de creación y año de los electrodomesticos fabricados en el año 2022 
+
+select tienNombre "Tienda", tienFechaCreacion "Fecha de creación", electAnioFabricacion "Año de fabricación" from  tblTienda inner join tblElectrodomestico on tblTienda.tienNit = tblElectrodomestico.tienNit where electanioFabricacion = 2022
+
+--3. obtenga el nombre de la tienda, fecha de creación y año de los electrodomesticos ordenados
+
+select tienNombre "Tienda", tienFechaCreacion "Fecha de creación", electAnioFabricacion "Año de fabricación" from  tblTienda inner join tblElectrodomestico on tblTienda.tienNit = tblElectrodomestico.tienNit order by electAnioFabricacion
+
+
+--4. obtenga el nit de la tienda, fecha de creación y año de los electrodomesticos ordenados por tienda
+
+select tblTienda.tienNit "Nit tienda", tienFechaCreacion "Fecha de creación", electAnioFabricacion "Año de fabricación" from  tblTienda inner join tblElectrodomestico on tblTienda.tienNit = tblElectrodomestico.tienNit order by tblTienda.tienNit
+
+
+--5. seleccionar el nombre de la tienda, el serial, marca y el pais de origen de los electrodomésticos cuyo nombre de la tienda empiece por A o K
+
+select tienNombre "Tienda", electSerial "Serial", electMarca "Marca", electPaisOrigen "País de origen" from tblTienda inner join tblElectrodomestico on tblTienda.tienNit = tblElectrodomestico.tienNit where tienNombre LIKE 'A%' or tienNombre LIKE 'K%'
+
+
+
+sub-Consultas
+
+--1. obtenga el serial y marca  de los productos de la tienda Exito
+
+
+select electSerial "Serial", electMarca "Marca" from  (select tienNit from tblTienda where tienNombre like 'Exito') R inner join tblElectrodomestico on R.tienNit = tblElectrodomestico.tienNit
+
+
+--2. obtenga el serial y marca  de los productos de la tienda Exito o Alkosto
+
+select electSerial "Serial", electMarca "Marca" from  (select tienNit from tblTienda where tienNombre like 'Exito' or tienNombre like 'Alkosto') R inner join tblElectrodomestico on R.tienNit = tblElectrodomestico.tienNit
+
+
+--3. obtenga el Nit, nombre de la tienda con productos de tipo Televisor 
+
+
+select tblTienda.tienNit "Nit de la tienda", tienNombre "Nombre", electTipo "Tipo" from  (select tienNit, electTipo from tblElectrodomestico where electTipo like 'Televisor') R inner join tblTienda on R.tienNit = tblTienda.tienNit
+
+       
+
+
+

@@ -1,0 +1,24 @@
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Proyecto Final JSarabino-JCarvajal.exe.config
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Proyecto Final JSarabino-JCarvajal.exe
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Proyecto Final JSarabino-JCarvajal.pdb
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto_Final_JSarabino_JCarvajal.Form1.resources
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto_Final_JSarabino_JCarvajal.Properties.Resources.resources
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.exe
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.pdb
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Camilo\source\repos\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.CopyComplete
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Proyecto Final JSarabino-JCarvajal.exe.config
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Proyecto Final JSarabino-JCarvajal.exe
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Proyecto Final JSarabino-JCarvajal.pdb
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\bin\Debug\Oracle.DataAccess.dll
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.AssemblyReference.cache
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto_Final_JSarabino_JCarvajal.Form1.resources
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto_Final_JSarabino_JCarvajal.Properties.Resources.resources
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.GenerateResource.cache
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.CoreCompileInputs.cache
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.csproj.CopyComplete
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.exe
+C:\Users\juank\OneDrive\Desktop\Proyecto Final JSarabino-JCarvajal\Proyecto Final JSarabino-JCarvajal\obj\Debug\Proyecto Final JSarabino-JCarvajal.pdb
