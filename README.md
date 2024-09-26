@@ -1,4 +1,5 @@
 # ProyectosVarios
+Proyectos realizados en c#, Java y SQL server
 
 ## Proyecto Final Bases Datos 1
 Creación de interfaz gráfica y conexión a bases de datos de un supuesto de tienda de electrodomésticos. (C# y SQL Server)
